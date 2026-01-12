@@ -1,0 +1,4 @@
+/* Arquivo criado para evitar 404 em build; adicionar aqui estilos globais se desejar */
+:root { --bg: #09090b; }
+html,body,#root { height:100%; }
+body { margin:0; background:var(--bg); }
