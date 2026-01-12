@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, '.', '');
     return {
-      base: "/pf-barbearia-bladeebourbon/",
+      base: "/pf-barbearia-bladeebourbon",
       server: {
         open: true,
         port: 3000,
