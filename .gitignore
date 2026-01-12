@@ -6,7 +6,6 @@ dist-ssr
 .env.local
 logs/
 build/
-.github/
 coverage/
 
 # Logs
