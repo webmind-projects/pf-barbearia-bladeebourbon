@@ -7,7 +7,6 @@ export default defineConfig(({ mode }) => {
     return {
       base: "/pf-barbearia-bladeebourbon",
       server: {
-        open: true,
         port: 3000,
         host: '0.0.0.0',
       },

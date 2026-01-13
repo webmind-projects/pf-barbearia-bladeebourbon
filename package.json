@@ -1,7 +1,6 @@
 {
   "homepage": "https://webmind-projects.github.io/pf-barbearia-bladeebourbon/",
-  "name": "blade-bourbon-barbearia-premium",
-  "private": true,
+  "name": "blade-bourbon-barbearia",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
